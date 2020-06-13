@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/shchaslyvyi/bookstore_items_api/app"
+	app "github.com/shchaslyvyi/bookstore_items_api/application"
 )
 
 func main() {
